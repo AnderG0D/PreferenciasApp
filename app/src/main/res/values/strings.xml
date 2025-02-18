@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Preferencias</string>
+
+    <string name="textView_nombre">Nombre</string>
+    <string name="editText_nombre">Escribir nombre</string>
+    <string name="textView_tema">Elegir tema</string>
+    <string name="textView_fecha">Elegir fecha</string>
+    <string name="radioButton_planta">Planta</string>
+    <string name="radioButton_animal">Animal</string>
+    <string name="radioButton_figura">Figura</string>
+    <string name="button_guardar">Guardar</string>
+    <string name="button_ver_preferencias">Ver preferencias</string>
+
+    <!-- Recursos para actvidad VerDatos -->
+    <string name="imageView_tema">Figura de un tema</string>
+    <string name="button_regresar">Regresar</string>
+
+</resources>
